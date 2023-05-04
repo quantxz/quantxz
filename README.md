@@ -12,8 +12,10 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=quantxz&show_icons=true&count_private=true&hide_border=true&title_color=74fd4e&icon_color=74fd4e&text_color=9e52fc&bg_color=0d1117" alt="quantxz github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantxz&layout=compact&hide_border=true&title_color=9e52fc&text_color=74fd4e&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantxz&layout=compact&hide_border=true&hide_css=true&title_color=9e52fc&text_color=74fd4e&bg_color=0d1117&langs_count=5&langs=javascript,html,python,java,typescript&exclude_repo=my-css-repo" />
 </div>
+
+
 
  
  ## 🧠 Main skills:
