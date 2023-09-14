@@ -43,7 +43,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 # 📖 Studying in this moment:
-![nestJs](https://img.shields.io/badge/NestJS-990000?logo=nestjs&logoColor=white&style=for-the-badge)
+![nestJs](https://img.shields.io/badge/NestJS-FF3300?logo=nestjs&logoColor=white&style=for-the-badge)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
