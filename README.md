@@ -25,7 +25,7 @@
 ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ramdola_) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@caraaleatoriu) [![Gmail](https://img.shields.io/badge/Gmail-%236231C5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anderson.backdev@gmail.com?subject=ola)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Andersonlxz) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@caraaleatoriu) [![Gmail](https://img.shields.io/badge/Gmail-%236231C5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anderson.backdev@gmail.com?subject=ola)
 
 
 # 💻 Tech Stack:
